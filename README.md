@@ -1,7 +1,6 @@
 # AI Systems & Reliability Engineer — Roadmap
 
-A roadmap I'm following, and my public working log against it: from Python internals and Linux up to
-autonomous AI systems that can be measured, broken, and still survive production.
+A roadmap I'm following, and my public working log against it: from Python internals and Linux up to autonomous AI systems that can be measured, broken, and still survive production.
 
 > *"Anyone can make an agent work once, on a laptop, on a good day. The rare engineer can tell you
 > why it failed at 3 a.m., how often that failure happens, and how to make it recover by itself."*
