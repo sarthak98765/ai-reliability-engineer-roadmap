@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *.so
@@ -9,16 +8,10 @@ env/
 build/
 dist/
 .ipynb_checkpoints/
-
-# Environment / secrets
 .env
 .env.*
-
-# OS / editor
 .DS_Store
 .vscode/
 .idea/
-
-# Data & artefacts (keep the repo about code and notes)
 *.log
 data/
